@@ -1,2 +1,9 @@
 # shinkei-suijaku
-Created with CodeSandbox
+
+## 概要
+
+自作の神経衰弱ゲームです。
+
+## ライセンス
+
+このプロジェクトは MIT ライセンスの下で公開されています。
